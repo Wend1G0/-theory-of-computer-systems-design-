@@ -1,0 +1,43 @@
+PCAD Importer Log
+Project : lab_01.LibPkg
+
+Section : D:\Загрузки\lab_01.lib
+    Section : SCH Library - lab_01.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token defaultPinDes On Line 74
+            Warning - 1 : Skipping Token defaultPinDes On Line 82
+            Warning - 1 : Skipping Token defaultPinDes On Line 101
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 132
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 148
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+            Warning - 1 : Skipping Token defaultPinDes On Line 164
+            Warning - 1 : Skipping Token defaultPinDes On Line 172
+            Warning - 1 : Skipping Token defaultPinDes On Line 180
+            Warning - 1 : Skipping Token defaultPinDes On Line 188
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 228
+            Warning - 1 : Skipping Token defaultPinDes On Line 236
+            Warning - 1 : Skipping Token defaultPinDes On Line 244
+            Warning - 1 : Skipping Token defaultPinDes On Line 252
+            Warning - 1 : Skipping Token defaultPinDes On Line 260
+            Warning - 1 : Skipping Token defaultPinDes On Line 268
+            Warning - 1 : Skipping Token defaultPinDes On Line 276
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 292
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 308
+            Warning - 1 : Skipping Token defaultPinDes On Line 325
+        EndSection
+
+        Section : Generating SCH Library - lab_01.SchLib
+        EndSection
+    EndSection
+EndSection
