@@ -1,0 +1,44 @@
+PCAD Importer Log
+Project : lab_03.PrjPcb
+
+Section : D:\«‡„ÛÁÍË\lab_03.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 126
+        Warning - 1 : Skipping Token defaultPinDes On Line 134
+        Warning - 1 : Skipping Token defaultPinDes On Line 288
+        Warning - 1 : Skipping Token defaultPinDes On Line 296
+        Warning - 1 : Skipping Token defaultPinDes On Line 354
+        Warning - 1 : Skipping Token defaultPinDes On Line 362
+        Warning - 1 : Skipping Token defaultPinDes On Line 382
+        Warning - 1 : Skipping Token defaultPinDes On Line 398
+        Warning - 1 : Skipping Token defaultPinDes On Line 413
+        Warning - 1 : Skipping Token defaultPinDes On Line 421
+        Warning - 1 : Skipping Token defaultPinDes On Line 437
+        Warning - 1 : Skipping Token defaultPinDes On Line 445
+        Warning - 1 : Skipping Token defaultPinDes On Line 464
+        Warning - 1 : Skipping Token defaultPinDes On Line 472
+        Warning - 1 : Skipping Token gridDfns On Line 831
+        Warning - 1 : Skipping Token refPointSize On Line 851
+        Warning - 1 : Skipping Token infoPointSize On Line 852
+        Warning - 1 : Skipping Token junctionSize On Line 853
+        Warning - 1 : Skipping Token refPointSizePrint On Line 854
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 855
+        Warning - 1 : Skipping Token junctionSizePrint On Line 856
+        Warning - 1 : Skipping Token PrintRegion On Line 992
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 996
+        Warning - 1 : Skipping Token ecoState On Line 1011
+        Warning - 1 : Skipping Token currentTextStyle On Line 1012
+        Warning - 1 : Skipping Token reportSettings On Line 1015
+    EndSection
+
+    Section : Generating SCH Library - lab_03.SchLib
+        Warning : Create component variant [R1W_VARIANT_1] for component with original name [R1W]
+        Warning : Create component variant [ ŒÕ“¿ “2_VARIANT_1] for component with original name [ ŒÕ“¿ “2]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
